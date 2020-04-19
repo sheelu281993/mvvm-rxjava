@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News HaloDoc</string>
+
+    <string name="processing">Processing&#8230;</string>
+
+    <string name="lb_10_character">Truecaller 10th Character Request</string>
+    <string name="lb_every_10_character">Truecaller Every 10th Character Request</string>
+
+    <string name="lb_word_counter_request">Truecaller Word Counter Request</string>
+
+</resources>
